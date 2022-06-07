@@ -1,0 +1,15 @@
+Srbija|Zlatibor|132|22.2.2022|4|Mona|Autobus|4|Zimovanje|
+Italija|Rim|322|9.6.2022|3|Raeli|Avion|4|Izlet|
+Portugalija|Lisabon|622|21.06.2022|3|ENTRECAMPOS|Avion|2|Letovanje|
+Turska|Istanbul|555|27.09.2022|7|Orka Taksim Suites|Voz|6|Proputovanje|
+Spanija|Valensija|125|25.08.2022|3|Eurostars Acteon|Avion|4|Letovanje|
+Ceska|Prag|576|20.10.2022|8|St.George|Autobus|8|Izlet|
+Italija|Sicilija|340|20.12.2022|4|VILLA BELVEDERE|Sopstveni|4|Zimovanje|
+Grcka|Krf|677|27.06.2022|7|FIORENTINA|Sopstveni|3|Izlet|
+Egipat|Sarm el Seik|780|12.09.2022|2|XPERIENCE ST. GEORGE|Avion|9|Proputovanje|
+Grcka|Skijatos|350|15.08.2022|7|ELIVI SKIATHOS|Autobus|8|Letovanje|
+Ujedinjeni Arapski Emirati|Dubai|1000|24.07.2022|10|SHERATON JUMEIRAH BEACH|Avion|3|Izlet|
+Ujedinjeni Arapski Emirati|Dubai|760|24.07.2022|10|ELITE BYBLOS|Avion|3|Izlet|
+Spanija|Madrid|125|25.11.2022|3|Eurostars Acteon|Autobus|4|Zimovanje|
+Srbija|Kopaonik|132|22.2.2022|4|Gorski|Autobus|4|Zimovanje|
+Italija|Venecija|240|12.09.2022|7|Hotel|Sopstveni|8|Proputovanje|
